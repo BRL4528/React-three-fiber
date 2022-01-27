@@ -11,7 +11,7 @@
     "react-scripts": "3.0.1",
     "react-three-fiber": "3.0.15",
     "styled-jsx": "3.2.4",
-    "three": "0.125.0"
+    "three": "0.137.0"
   },
   "devDependencies": {
     "typescript": "3.3.3"
